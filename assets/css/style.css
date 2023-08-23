@@ -1,0 +1,113 @@
+body {
+    background-color: black;
+}
+
+
+.titulo {
+    color: white;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+}
+
+.imagengrande {
+    background-image: url(/assets/img/bg-header.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+
+.infoimagen {
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.info {
+    padding: 20px;
+    margin: 30px;
+    width: 40%;
+    color: white;
+    font-size: 18px;
+
+}
+
+.imagen2 {
+    padding: 20px;
+    margin: 30px;
+    width: 40%;
+    text-align: center;
+
+}
+
+.iconocaract {
+    background-color: #1E1A13;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    padding: 30px;
+}
+
+.icono {
+    text-align: center;
+    margin: 20px;
+}
+
+
+
+/*.icono3 {
+    text-align: center;
+    margin: 20px;
+} */
+
+
+.caracteristicas {
+    display: flex;
+    justify-content: center;
+    color: white;
+    background-color: #1E1A13;
+    font-family: 'Raleway', sans-serif;
+    padding: 30px;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+h2 {
+    color: white;
+}
+
+.imagenes {
+    display: flex;
+    justify-content: center;
+    padding: 60px;
+
+}
+
+.igu123 {
+    justify-content: center;
+    text-align: center;
+    padding: 20px;
+    width: 350px;
+    height: 250px;
+}
+
+
+
+.cierre {
+    background-color: #1E1A13;
+    height: 40px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding: 5px;
+    font-family: 'Raleway', sans-serif;
+}
+
+a {
+    color: white;
+    margin: 10px;
+}
